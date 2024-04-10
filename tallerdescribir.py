@@ -1,4 +1,4 @@
-import numpy as np #se importa la biblioteca numpy y le asigna el alias np
+import numpy as np #se importa la biblioteca numpy y le asigna el alias np.
 
 import matplotlib.pyplot as plt #importa la biblioteca matplotlib y asigna el alias plt
 
